@@ -1,0 +1,85 @@
+{
+  "Employees": [
+    {
+      "userId": "1",
+      "jobTitleName": "Developer",
+      "firstName": "Oscar",
+      "lastName": "Vaquez",
+      "preferredFullName": "Oscar Vaquez",
+      "phoneNumber": "999-9999"
+    },
+    {
+      "userId": "2",
+      "jobTitleName": "Developer",
+      "firstName": "Alex",
+      "lastName": "Lopez",
+      "preferredFullName": "Alex Lopez",
+      "phoneNumber": "999-9999"
+    },
+    {
+      "userId": "3",
+      "jobTitleName": "Developer",
+      "firstName": "Laura",
+      "lastName": "Gonzalez",
+      "preferredFullName": "Laura Gonzalez",
+      "phoneNumber": "999-9999"
+    },
+    {
+      "userId": "4",
+      "jobTitleName": "Developer",
+      "firstName": "Jerry",
+      "lastName": "Contreras",
+      "preferredFullName": "Jerry Contreras",
+      "phoneNumber": "999-9999"
+    },
+    {
+      "userId": "5",
+      "jobTitleName": "Developer",
+      "firstName": "Tom",
+      "lastName": "Hardy",
+      "preferredFullName": "Tom Hardy",
+      "phoneNumber": "999-9999"
+    },
+    {
+      "userId": "6",
+      "jobTitleName": "Developer",
+      "firstName": "Logan",
+      "lastName": "Sun",
+      "preferredFullName": "Logan Sun",
+      "phoneNumber": "999-9999"
+    },
+    {
+      "userId": "7",
+      "jobTitleName": "Developer",
+      "firstName": "Bob",
+      "lastName": "Truck",
+      "preferredFullName": "Bob Truck",
+      "phoneNumber": "999-9999"
+    },
+    {
+      "userId": "8",
+      "jobTitleName": "Developer",
+      "firstName": "Mike",
+      "lastName": "Scott",
+      "preferredFullName": "Mike Scott",
+      "phoneNumber": "999-9999"
+    },
+    {
+      "userId": "9",
+      "jobTitleName": "Developer",
+      "firstName": "Mae",
+      "lastName": "Fich",
+      "preferredFullName": "Mae Fich",
+      "phoneNumber": "999-9999"
+    },
+    {
+      "userId": "10",
+      "jobTitleName": "Developer",
+      "firstName": "Abigail",
+      "lastName": "Fedley",
+      "preferredFullName": "Abigail Fedley",
+      "region": "GA",
+      "phoneNumber": "999-9999"
+    }
+  ]
+}
